@@ -1,6 +1,6 @@
 # I will probably work on this game more once I finish this class, but for now I just wanted to get a basic version of the game working with all the core mechanics. I also added a main menu and pause menu, and an easter egg if you enter the konami code on the main menu. The game is pretty rough around the edges and could use a lot of polish, but it's a start!
 # Right click to shoot bullets in the direction of the mouse, use WASD to move (unless you decide to rebind it), press ESC to pause and access the pause menu, and you can also save.
-# Also if you use a certain cheat code on the pause menu...
+# Also if you use a certain classic cheat code on the main menu...
 
 import pygame,random,math
 from pygame.locals import *
