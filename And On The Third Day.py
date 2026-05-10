@@ -14,6 +14,7 @@ pygame.mixer.init()
 screen = pygame.display.set_mode((1500, 1000), pygame.RESIZABLE)
 font = pygame.font.SysFont(None, 40)
 MUSIC_END_EVENT = pygame.USEREVENT + 1
+pygame.display.set_caption("And On The Third Day")
 
 BLUE = (0,0,255)
 DARKBLUE = (0,71,171)
